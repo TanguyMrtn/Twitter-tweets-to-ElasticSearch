@@ -6,7 +6,7 @@ Code is in Python
 
 Twitter stream : tweepy 
 
-In "Twitter Dashboard" you can see some visualisation on Tweets (Kibana)
+In "Dashboard Twitter" you can see some visualisation on Tweets (Kibana)
 
 As this project is for course purpose at Polytech Annecy-Chambéry (FRANCE), IDU (IT) formation, the comments are in French.
 
